@@ -1,0 +1,14 @@
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\ProiectECG.exe.config
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\ProiectECG.exe
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\ProiectECG.pdb
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.dll
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.pdb
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.xml
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\obj\Debug\ProiectECG.csproj.AssemblyReference.cache
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\obj\Debug\ProiectECG.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\obj\Debug\ProiectECG.csproj.CopyComplete
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\obj\Debug\ProiectECG.exe
+C:\Users\Catalin\Documents\proiect-ecg\ProiectECG\obj\Debug\ProiectECG.pdb

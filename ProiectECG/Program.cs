@@ -10,6 +10,8 @@ namespace ProiectECG
     {
         static void Main(string[] args)
         {
+            Window3D window3d = new Window3D();
+            window3d.Run(30.0, 0.0);
         }
     }
 }
